@@ -1,0 +1,4 @@
+*.md linguist-detectable=false
+*.txt linguist-detectable=false
+*.py linguist-detectable=false
+# etc.
